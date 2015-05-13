@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Mintel SoftPhone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mintel SoftPhone</string>
+
+    
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+    
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_update_setting">Update Settings</string>
+    <string name="pref_sip_settings">Sip Settings</string>
+    <string name="pref_password">password</string>
+    <string name="pref_sip_server">Server Ip</string>
+    <string name="pref_server_port">Server Port</string>
+    <string name="pref_server_summery">Set your Sip Server Ip here</string>
+    <string name="pref_password_summery">Set password here</string>
+    
+    
+</resources>

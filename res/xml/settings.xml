@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_sip_settings" >
+        <EditTextPreference 
+            	android:title="@string/pref_user_name" 
+            	android:summary="@string/pref_user_name_summary" 
+            	android:key="prefUsername"/>
+        <EditTextPreference android:title="@string/pref_password" android:key="prefPassword" android:summary="@string/pref_password_summery"/>
+        <EditTextPreference android:summary="@string/pref_server_summery" android:title="@string/pref_sip_server" android:key="prefServerIp"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
